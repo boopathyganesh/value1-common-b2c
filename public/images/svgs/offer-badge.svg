@@ -1,0 +1,21 @@
+<svg id="SvgjsSvg1001" width="256" height="256" xmlns="http://www.w3.org/2000/svg" version="1.1"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs">
+    <defs id="SvgjsDefs1002"></defs>
+    <g id="SvgjsG1008"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="256" height="256">
+            <path fill="#cd4c60" d="M31.58 49H8a7 7 0 0 1-7-7V8a7 7 0 0 1 7-7h30a7 7 0 0 1 7 7v23Z"
+                class="colorcd4c60 svgShape"></path>
+            <path fill="#fde05e" d="M19 1h8v48h-8z" class="colorfde05e svgShape"></path>
+            <path fill="#fde05e" d="M1 14h44v8H1z" class="colorfde05e svgShape"></path>
+            <circle cx="45" cy="45" r="14" fill="#fabb04" class="colora53c50 svgShape"></circle>
+            <path fill="#e3c84c"
+                d="M12 10h2a6 6 0 0 1 6 6v6h-8a6 6 0 0 1-6-6 6 6 0 0 1 6-6ZM34 22h-8v-6a6 6 0 0 1 6-6h2a6 6 0 0 1 6 6 6 6 0 0 1-6 6Z"
+                class="colore3c84c svgShape"></path>
+            <path fill="#c7af3e" d="M20 16h6v6h-6z" class="colorc7af3e svgShape"></path>
+            <path fill="#e3c84c"
+                d="m34.79 30.12-2.13-.24a.9.9 0 0 0-.96.57l-.83 1.98a.922.922 0 0 1-1.65.11L24.18 24 23 22h8.74l1.18 2 2.78 4.72a.936.936 0 0 1-.91 1.4zM23 22l-1.18 2-5.04 8.54a.922.922 0 0 1-1.65-.11l-.83-1.98a.9.9 0 0 0-.96-.57l-2.13.24a.936.936 0 0 1-.91-1.4L13.08 24l1.18-2z"
+                class="colore3c84c svgShape"></path>
+            <path fill="#ffffff"
+                d="M41 44a3 3 0 1 1 3-3 3 3 0 0 1-3 3zm0-4a1 1 0 1 0 1 1 1 1 0 0 0-1-1zm8 12a3 3 0 1 1 3-3 3 3 0 0 1-3 3zm0-4a1 1 0 1 0 1 1 1 1 0 0 0-1-1zm-10 4a1 1 0 0 1-.707-1.707l12-12a1 1 0 0 1 1.414 1.414l-12 12A1 1 0 0 1 39 52z"
+                class="colorfde05e svgShape"></path>
+        </svg></g>
+</svg>

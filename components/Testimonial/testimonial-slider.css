@@ -1,0 +1,19 @@
+.swiper-wrapper{
+    align-items: center !important;
+    padding-bottom: 30px;
+    transition-timing-function: linear;
+}
+.swiper-pagination{
+    padding-bottom: 50px;
+    bottom: -50px !important;
+}
+.swiper-pagination-bullet{
+    background: #fff !important;
+    opacity: 1 !important;
+}
+.swiper-pagination-bullet-active{
+    background-color: #fabb04 !important;
+}
+.swiper-button-prev,.swiper-button-next{
+    color: #fff;
+}

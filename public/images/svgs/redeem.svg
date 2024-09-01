@@ -1,0 +1,37 @@
+<svg id="SvgjsSvg1097" width="256" height="256" xmlns="http://www.w3.org/2000/svg" version="1.1"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs">
+    <defs id="SvgjsDefs1098"></defs>
+    <g id="SvgjsG1099"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="256" height="256">
+            <g data-name="37 REDEEM">
+                <path fill="#f5d367"
+                    d="M165.75 142.49a185.94 185.94 0 0 0-34.15 75.2H40a29 29 0 0 1-29-29v-17.2a29 29 0 0 1 29-29Z"
+                    class="colorf5d367 svgShape"></path>
+                <path fill="#eac55e"
+                    d="M127.81 255.3a187.75 187.75 0 0 0 3.79 37.6H65.93a29 29 0 0 1-29-29v-17.21a29 29 0 0 1 29-29h65.67a187.92 187.92 0 0 0-3.79 37.61Z"
+                    class="coloreac55e svgShape"></path>
+                <path fill="#f5d367"
+                    d="M165.75 368.1H40a29 29 0 0 1-29-29v-17.2a29 29 0 0 1 29-29h91.6a185.94 185.94 0 0 0 34.15 75.2Z"
+                    class="colorf5d367 svgShape"></path>
+                <path fill="#eac55e"
+                    d="M296.61 441.05a28.87 28.87 0 0 1-11.21 2.25H65.93a29 29 0 0 1-29-29v-17.2a29 29 0 0 1 29-29h99.82a186.38 186.38 0 0 0 130.86 72.95Z"
+                    class="coloreac55e svgShape"></path>
+                <circle cx="314.41" cy="255.29" r="186.59" fill="#f5d367" class="colorf5d367 svgShape"></circle>
+                <circle cx="314.41" cy="255.29" r="156.13" fill="#ffebb9" class="colorffebb9 svgShape"></circle>
+                <rect width="189.05" height="210.06" x="219.88" y="150.26" fill="#f7f5fb" rx="20.58" ry="20.58"
+                    class="colorf7f5fb svgShape"></rect>
+                <path fill="#f5d367"
+                    d="M388.36 360.32h-147.9a20.57 20.57 0 0 1-20.58-20.58v-94.88h189.05v94.88a20.57 20.57 0 0 1-20.57 20.58Z"
+                    class="colorf5d367 svgShape"></path>
+                <rect width="67.57" height="43.72" x="235.29" y="173.49" fill="#f5d367" rx="6.75" ry="6.75"
+                    class="colorf5d367 svgShape"></rect>
+                <rect width="67.57" height="43.72" x="325.96" y="173.49" fill="#f5d367" rx="6.75" ry="6.75"
+                    class="colorf5d367 svgShape"></rect>
+                <path fill="#e2c061"
+                    d="M95.16 368.1H40a29 29 0 0 1-29-29v-17.2a29 29 0 0 1 29-29h.4a500.81 500.81 0 0 0 54.76 75.2Z"
+                    class="colore2c061 svgShape"></path>
+                <path fill="#dbb558"
+                    d="M177.93 443.3h-112a29 29 0 0 1-29-29v-17.2a29 29 0 0 1 29-29h29.23a501.25 501.25 0 0 0 82.77 75.2Z"
+                    class="colordbb558 svgShape"></path>
+            </g>
+        </svg></g>
+</svg>
